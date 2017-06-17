@@ -1,0 +1,262 @@
+
+
+.container{
+	 background-color:#ffffff;
+	 margin:0 auto;	 
+	 border:1px solid #dddddd;
+	 height:800px;
+	}
+	
+
+header{	
+padding:20px;
+background-color: #ffffff;
+border:1px solid #cccccc;
+height:30px;
+}
+
+h1{
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	background-color: #4aaaa5;
+	padding:20px;
+	margin:4px 350px 0 0;
+	float:left;
+	height:26px;
+	position:relative;
+	top:-20px;
+	left:20px;
+	
+}
+h4{font-family: 
+font-size}
+a{
+	margin:1px;
+	padding:10px;
+	float:left;
+	color: #777777;
+	font-family:'Helvetica Neue',Times, Times New Roman, serif;
+}
+.wrapper{
+	background-image: url("../images/concrete_seamless/concrete_seamless.png");	
+	height:700px;
+}
+.content{
+     float:left;
+   margin:10px 10px 3px 5px;
+	padding:20px;
+	background: #ffffff;	
+	width: 650px;
+	height:500px;
+}
+
+#about{	
+	margin:0px 5px 2px 10px;
+	padding:5px;
+	color:#4aaaa5;
+	font-family:'Arial',Times, Times New Roman, serif;
+	font-size:20px;	
+	border-bottom: :2px solid #cccccc;
+	float:left;	
+
+
+}
+
+
+#line{
+	margin:10px 70px 5px 50px;
+	padding:60px;	
+	color:#dddddd;
+	
+}
+#image{
+	
+	float:left;
+	margin:10px 20px 20px 10px;
+	padding:2px;	
+	
+}
+
+.nav{
+	float:left;
+	background: #ffffff;
+	height:140px;
+	color:#4aaaa5;
+	margin:30px;
+	padding:20px;	
+	width:270px;
+	position:relative;
+}
+
+
+	input[type=text] {
+    width: 100%;
+    padding: 12px 15px;
+    margin:8px 0;
+    
+    border: 1px solid #ccc;    
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 25%;
+    background-color: #4aaaa5;
+    color: white;
+    padding: 12px 15px;
+    margin: 8px 0;
+    border: none;
+    
+   
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+
+
+
+--portfolio
+
+.box-set{
+	background: white;
+	width: 65%;
+	padding: 20px;
+	margin: 0;
+	position: relative;
+	float: left;
+	top: 25px;
+	z-index: 9000;
+	overflow: auto;
+}
+.box-set p{
+margin: 15px 0 5px;
+}
+.box-set img{
+	width: 250px;
+	height: 150px;
+	
+}
+
+
+
+.image1,.image3,.image5{
+	position:relative;
+	float:left;
+}
+.image2,.image4{
+	position:relative;
+	float:right;
+}
+.imageclass1{
+	width: 250px;
+	height: 150px;
+	top:10px;
+	left:25px;
+	float:left;
+	position: relative;
+}
+
+.imageclass2{
+	width: 250px;
+	height: 150px;
+	top:10px;
+	right:25px;
+	float: right;
+	position: relative;
+}
+
+.imageclass3{
+	width: 250px;
+	height: 150px;
+	margin-top: 40px;
+	top:10px;
+	left:25px;
+	float:left;
+	position: relative;
+}
+
+.imageclass4{
+	width: 250px;
+	height: 150px;
+	margin-top: 40px;
+	top:10px;
+	right:25px;
+	float:right;
+	position: relative;
+}
+
+.imageclass5{
+	width: 250px;
+	height: 150px;
+	margin-top: 40px;
+	top:10px;
+	left:25px;
+	float:left;
+	position: relative;
+}
+.image_name1{
+	position: absolute;
+	background: #4aaaa5;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	top: 90px;
+	width: 100%;
+	text-align: center;
+	
+}
+
+.image_name2{
+	position: absolute;
+	background: #4aaaa5;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	top: 90px;
+	width: 100%;
+	text-align: center;
+
+}
+
+.image_name3{
+	position: absolute;
+	background: #4aaaa5;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	top: 90px;
+	width: 100%;
+	text-align: center;
+	
+}
+
+.image_name4{
+	position: absolute;
+	background: #4aaaa5;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	top: 90px;
+	width: 100%;
+	text-align: center;
+	
+}
+
+.image_name5{
+	position: absolute;
+	background: #4aaaa5;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	top: 90px;
+	width: 100%;
+	text-align: center;
+	
+}
+
+
+footer{
+padding:20px;
+background-color:#666666;
+border-top:4px solid #4aaaa5;
+height:80px;
+text-align: center;
+clear:both;
+float:none;
+width:100%;
+}
